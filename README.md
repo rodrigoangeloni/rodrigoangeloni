@@ -54,7 +54,7 @@
 - 🐧 Uso Debian Linux como servidor principal desde 2021
 - 🧉 Tomo mate mientras resuelvo problemas de servidores
 - 📖 Estoy leyendo "El Libro de Docker" y "JavaScript: The Good Parts"
-- 🎮 Jugador semi-profesional de Assetto Corsa
+- 🎮 Aficionado de simuladores de carreras principalmente de Assetto Corsa
 
 > "El único error real es aquel del que no aprendemos nada." - Henry Ford
 <!--
