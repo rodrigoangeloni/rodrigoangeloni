@@ -50,7 +50,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rodrigoangeloni@gmail.com)
 
 ## ⚡ Datos Curiosos
-- 🏁 Administro una comunidad de simuladores de carreras con 500+ miembros
+- 🏁 Administro una comunidad de simuladores de carreras con 800+ miembros
 - 🐧 Uso Debian Linux como servidor principal desde 2021
 - 🧉 Tomo mate mientras resuelvo problemas de servidores
 - 📖 Estoy leyendo "El Libro de Docker" y "JavaScript: The Good Parts"
