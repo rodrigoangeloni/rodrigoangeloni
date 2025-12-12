@@ -13,27 +13,28 @@
 
 ## 👨‍💻 Sobre Mí
 
-```
-💼 Estudiante universitario en UAA - Paraguay
-🎓 Aprendiz apasionado de programación y administración de sistemas
-🖥️ Administrador de servidores multijugador (Assetto Corsa y otros)
-🚀 Combinando desarrollo web con infraestructura en la nube
-🏁 Admin de comunidad de carreras con 800+ miembros
-🐧 Debian Linux power user desde 2021
-🧉 Entusiasta del mate y la resolución de problemas
-```
+- 💼 Estudiante universitario en **UAA - Paraguay**
+- 🎓 Aprendiz apasionado de **programación** y **administración de sistemas**
+- 🖥️ Administrador de servidores multijugador (**Assetto Corsa** y otros)
+- 🚀 Combinando **desarrollo web** con **infraestructura en la nube**
+- 🏁 Admin de comunidad de carreras con **800+ miembros**
+- 🐧 **Debian Linux** power user desde 2021
+- 🧉 Entusiasta del **mate** y la resolución de problemas
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoangeloni&show_icons=true&theme=radical&locale=es&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/rodrigoangeloni">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrigoangeloni&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrigoangeloni&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
+</a>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoangeloni&theme=radical&hide_border=true&background=0D1117&locale=es)
+<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoangeloni&layout=compact&theme=radical&locale=es&hide_border=true&bg_color=0D1117)
+<img src="https://streak-stats.demolab.com/?user=rodrigoangeloni&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -43,7 +44,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=rodrigoangeloni&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&locale=es)
+<img src="https://github-profile-trophy.vercel.app/?username=rodrigoangeloni&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trofeos" />
 
 </div>
 
@@ -113,7 +114,7 @@
 
 <div align="center">
 
-[![Rodrigo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigoangeloni&theme=react-dark&hide_border=true&bg_color=0D1117&locale=es)](https://github.com/rodrigoangeloni)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigoangeloni&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Activity Graph" />
 
 </div>
 
