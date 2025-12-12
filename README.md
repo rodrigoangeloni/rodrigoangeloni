@@ -1,73 +1,189 @@
-# ¡Hola Mundo! 👋 Soy Rodrigo Angeloni.
+<div align="center">
+  
+# 👋 ¡Hola Mundo! Soy Rodrigo Angeloni
 
-🇵🇾 Estudiante universitario de la UAA - Paraguay 
-🎓 Aprendiz apasionado de programación y administración de sistemas  
-🖥️ Administrador de servidores multijugador (Assetto Corsa y otros)  
+### 🇵🇾 Estudiante universitario | UAA - Paraguay
+### 🚀 DevOps Enthusiast | Game Server Admin | Linux Power User
+
+![Visitor Count](https://profile-counter.glitch.me/rodrigoangeloni/count.svg)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre Mí
+
+```
+💼 Estudiante universitario en UAA - Paraguay
+🎓 Aprendiz apasionado de programación y administración de sistemas
+🖥️ Administrador de servidores multijugador (Assetto Corsa y otros)
 🚀 Combinando desarrollo web con infraestructura en la nube
+🏁 Admin de comunidad de carreras con 800+ miembros
+🐧 Debian Linux power user desde 2021
+🧉 Entusiasta del mate y la resolución de problemas
+```
 
-## 🌱 Mi Journey Tecnológico
+---
 
-### 📚 Actualmente aprendiendo:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+## � GitHub Stats
 
-### 🚨 Mis especialidades técnicas:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigoangeloni&show_icons=true&theme=radical&locale=es&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rodrigoangeloni&theme=radical&hide_border=true&background=0D1117&locale=es)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoangeloni&layout=compact&theme=radical&locale=es&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🏆 Logros GitHub
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=rodrigoangeloni&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&locale=es)
+
+</div>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Lenguajes
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### ⚙️ DevOps & Infraestructura
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
 
 ## 🏎️ Proyectos Destacados
 
+<div align="center">
+
 ### 🚥 [Servidor Assetto Corsa Personalizado](https://github.com/rodrigoangeloni/assetto-server-manager)
-- Configuraciones optimizadas para carreras multijugador
-- Automatización de despliegues con scripts Bash
-- Monitorización en tiempo real con herramientas custom
 
-### 🐳 [Plantilla Microservicios Docker](https://hub.docker.com/search?badges=official)
-- Entorno listo para despliegues rápidos
-- Configuración de redes Docker personalizadas
-- Ejemplos con Nginx, Node.js y Python
+> Gestión completa de servidor de carreras multijugador
 
-### 🌐 [Mi Primer Sitio Web](https://github.com/rodrigoangeloni)
-- Proyecto de aprendizaje con HTML/CSS/JS
-- Diseño responsive y animaciones básicas
-- Integración con APIs públicas
+- ✅ Configuraciones optimizadas para carreras competitivas
+- ✅ Automatización de despliegues con scripts Bash
+- ✅ Monitorización en tiempo real con herramientas custom
+- ✅ Sistema de gestión de eventos y campeonatos
+
+---
+
+### 🐳 Plantilla Microservicios Docker
+
+> Arquitectura lista para producción
+
+- ✅ Entorno listo para despliegues rápidos
+- ✅ Configuración de redes Docker personalizadas
+- ✅ Ejemplos con Nginx, Node.js y Python
+- ✅ Docker Compose para orquestación
+
+---
+
+### 🌐 [Mi Portfolio Web](https://github.com/rodrigoangeloni)
+
+> Desarrollo web moderno
+
+- ✅ Proyecto de aprendizaje con HTML/CSS/JS
+- ✅ Diseño responsive y animaciones avanzadas
+- ✅ Integración con APIs públicas
+- ✅ Optimización SEO y rendimiento
+
+</div>
+
+---
+
+## 📈 Actividad Reciente
+
+<div align="center">
+
+[![Rodrigo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rodrigoangeloni&theme=react-dark&hide_border=true&bg_color=0D1117&locale=es)](https://github.com/rodrigoangeloni)
+
+</div>
+
+---
+
+## 🔭 Actualmente trabajando en:
+
+- 🏁 Optimización de servidor Assetto Corsa con monitoreo avanzado
+- 🐳 Arquitectura de microservicios con Docker Swarm
+- 🌐 Desarrollo de portfolio personal con diseño moderno
+- 📚 Mejorando habilidades en JavaScript y Python
+
+## 🌱 Aprendiendo:
+
+- ☸️ Kubernetes para orquestación de contenedores
+- 🔄 CI/CD con GitHub Actions
+- ⚡ Node.js y desarrollo backend
+- 🎨 Frontend moderno con React
+
+---
+
 ## 🤝 ¿Quieres colaborar?
-- 🎮 Servidores gaming: Configuraciones personalizadas y optimización
-- 🐧 Scripts de automatización para Linux
-- 🌐 Proyectos web básicos para practicar juntos
-- � Docker: Ayuda con configuraciones complejas
 
-## 📫 Encuéntrame en:
-[![Steam](https://img.shields.io/badge/-Steam-000000?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/rodrigo_angeloni/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/MDhhtbu)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rodrigoangeloni@gmail.com)
+Estoy abierto a colaboraciones en:
+
+- 🎮 **Servidores gaming**: Configuraciones personalizadas y optimización
+- 🐧 **Scripts de automatización** para Linux
+- 🌐 **Proyectos web** para practicar juntos
+- 🐳 **Docker**: Ayuda con configuraciones complejas
+- 🏁 **Comunidades de carreras**: Gestión de eventos y torneos
+
+---
+
+## 📫 Conectemos
+
+<div align="center">
+
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rodrigo_angeloni/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MDhhtbu)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigoangeloni@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigoangeloni)
+
+</div>
+
+---
 
 ## ⚡ Datos Curiosos
-- 🏁 Administro una comunidad de simuladores de carreras con 800+ miembros
-- 🐧 Uso Debian Linux como servidor principal desde 2021
-- 🧉 Tomo mate mientras resuelvo problemas de servidores
-- 📖 Estoy leyendo "El Libro de Docker" y "JavaScript: The Good Parts"
-- 🎮 Aficionado de simuladores de carreras principalmente de Assetto Corsa
 
-> "El único error real es aquel del que no aprendemos nada." - Henry Ford
-<!--
-**rodrigoangeloni/rodrigoangeloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏁 Administro una comunidad de simuladores de carreras con **800+ miembros** activos
+- 🐧 Uso **Debian Linux** como servidor principal desde 2021
+- 🧉 Tomo **mate** mientras resuelvo problemas de servidores a las 3 AM
+- 📖 Lecturas actuales: *"El Libro de Docker"* y *"JavaScript: The Good Parts"*
+- 🎮 Fanático de **Assetto Corsa** - Mi tiempo de vuelta en Spa favorito es secreto 🤫
+- 🌐 Mi primer "Hello World" fue en HTML... ¡y aún lo recuerdo con cariño!
+- ☕ Código mejor después de 2 tazas de café (o mate)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### 💭 Frase Favorita
+
+> *"El único error real es aquel del que no aprendemos nada."*  
+> — **Henry Ford**
+
+---
+
+### ⭐ Si te gusta mi trabajo, considera darle una estrella a mis repos!
+
+![GitHub followers](https://img.shields.io/github/followers/rodrigoangeloni?style=social)
+![GitHub stars](https://img.shields.io/github/stars/rodrigoangeloni?style=social)
+
+</div>
