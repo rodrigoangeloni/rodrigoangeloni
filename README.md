@@ -34,7 +34,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=rodrigoangeloni&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-sigma-six.vercel.app/?user=rodrigoangeloni&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=rodrigoangeloni&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trofeos" />
+<img src="https://github-profile-trophy.vercel.app/?username=rodrigoangeloni&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trofeos" />
 
 </div>
 
@@ -79,10 +79,10 @@
 
 > Gestión completa de servidor de carreras multijugador
 
-- ✅ Configuraciones optimizadas para carreras competitivas
-- ✅ Automatización de despliegues con scripts Bash
-- ✅ Monitorización en tiempo real con herramientas custom
-- ✅ Sistema de gestión de eventos y campeonatos
+✅ Configuraciones optimizadas para carreras competitivas<br>
+✅ Automatización de despliegues con scripts Bash<br>
+✅ Monitorización en tiempo real con herramientas custom<br>
+✅ Sistema de gestión de eventos y campeonatos
 
 ---
 
@@ -90,10 +90,10 @@
 
 > Arquitectura lista para producción
 
-- ✅ Entorno listo para despliegues rápidos
-- ✅ Configuración de redes Docker personalizadas
-- ✅ Ejemplos con Nginx, Node.js y Python
-- ✅ Docker Compose para orquestación
+✅ Entorno listo para despliegues rápidos<br>
+✅ Configuración de redes Docker personalizadas<br>
+✅ Ejemplos con Nginx, Node.js y Python<br>
+✅ Docker Compose para orquestación
 
 ---
 
@@ -101,10 +101,10 @@
 
 > Desarrollo web moderno
 
-- ✅ Proyecto de aprendizaje con HTML/CSS/JS
-- ✅ Diseño responsive y animaciones avanzadas
-- ✅ Integración con APIs públicas
-- ✅ Optimización SEO y rendimiento
+✅ Proyecto de aprendizaje con HTML/CSS/JS<br>
+✅ Diseño responsive y animaciones avanzadas<br>
+✅ Integración con APIs públicas<br>
+✅ Optimización SEO y rendimiento
 
 </div>
 
