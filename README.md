@@ -5,7 +5,7 @@
 ### 🇵🇾 Estudiante universitario | UAA - Paraguay
 ### 🚀 DevOps Enthusiast | Game Server Admin | Linux Power User
 
-![Visitor Count](https://profile-counter.glitch.me/rodrigoangeloni/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=rodrigoangeloni&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
