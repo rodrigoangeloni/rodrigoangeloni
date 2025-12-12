@@ -45,7 +45,7 @@
 <div align="center">
   
 <a href="https://github.com/rodrigoangeloni">
-  <img src="https://github-profile-trophy.vercel.app/?username=rodrigoangeloni&theme=darkhub&no-frame=true&margin-w=10" alt="Trofeos" />
+  <img src="https://github-trophies.vercel.app/?username=rodrigoangeloni&theme=radical&no-frame=true&margin-w=10" alt="Trofeos" />
 </a>
 
 </div>
