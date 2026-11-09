@@ -34,7 +34,7 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats-sigma-six.vercel.app/?user=rodrigoangeloni&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=rodrigoangeloni&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigoangeloni&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" alt="Activity Graph" />
+<img src="https://raw.githubusercontent.com/rodrigoangeloni/rodrigoangeloni/output/activity-graph.svg" alt="Activity Graph" />
 
 </div>
 
