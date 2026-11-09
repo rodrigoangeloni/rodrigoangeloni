@@ -7,4 +7,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello World"
+      - uses: actions/checkout@v4
+      - uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: "rodrigoangeloni"
