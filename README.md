@@ -75,11 +75,9 @@
 
 ## 🏎️ Proyectos Destacados
 
-<div align="center">
-
 ### 🚥 [Servidor Assetto Corsa Personalizado](https://github.com/rodrigoangeloni/assetto-server-manager)
 
-> Gestión completa de servidor de carreras multijugador
+*Gestión completa de servidor de carreras multijugador*
 
 ✅ Configuraciones optimizadas para carreras competitivas<br>
 ✅ Automatización de despliegues con scripts Bash<br>
@@ -90,7 +88,7 @@
 
 ### 🐳 Plantilla Microservicios Docker
 
-> Arquitectura lista para producción
+*Arquitectura lista para producción*
 
 ✅ Entorno listo para despliegues rápidos<br>
 ✅ Configuración de redes Docker personalizadas<br>
@@ -101,14 +99,12 @@
 
 ### 🌐 [Mi Portfolio Web](https://github.com/rodrigoangeloni)
 
-> Desarrollo web moderno
+*Desarrollo web moderno*
 
 ✅ Proyecto de aprendizaje con HTML/CSS/JS<br>
 ✅ Diseño responsive y animaciones avanzadas<br>
 ✅ Integración con APIs públicas<br>
 ✅ Optimización SEO y rendimiento
-
-</div>
 
 ---
 
